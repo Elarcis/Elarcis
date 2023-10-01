@@ -23,13 +23,3 @@ I value **accessible** user interfaces, **simple but organised** architectures, 
 
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode)
 - ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-
-#### Things I dabbled with 🤔
-
-- ![Blender](https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-#### Things I _used_ to work with 💔
-
-- ![C#](https://img.shields.io/badge/C%23-%2399CC00?style=for-the-badge&logo=csharp&logoColor=white)
-- ![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
