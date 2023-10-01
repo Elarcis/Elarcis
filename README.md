@@ -14,12 +14,8 @@ I value **accessible** user interfaces, **simple but organised** architectures, 
 
 #### Tech I work with ⌨️
 
-- ![Node](https://img.shields.io/badge/Node-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-- ![Rust](https://img.shields.io/badge/Rust-%231c1c1c?style=for-the-badge&logo=rust)
+![Node](https://img.shields.io/badge/Node-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%231c1c1c?style=for-the-badge&logo=rust)
 
 #### Tools I use 🔧
 
-- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode)
-- ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode) ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white)
