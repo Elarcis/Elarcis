@@ -2,7 +2,7 @@
 
 Hi, I’m Lars (he/him), I’ve been a developer since 2009. Here I mostly work on proprietary software and contribute to FOSS projects, but I usually host my own stuff publicly on [Gitlab](https://gitlab.com/elarcis). 
 
-I’ve worked on a wide spectrum of technologies, from databases and Business Intelligence to web frontends and serverless apps, but I really prefer the latter.
+I’ve worked on a wide spectrum of technologies, from databases and Business Intelligence to web frontends and serverless apps, but what I really dig is implementing nice UX and code really cool apps.
 
 I value **accessible** user interfaces, **simple but organised** architectures, self-explanatory code and type-driven **correctness**, i.e. designing-out incorrect uses of my code.
 
